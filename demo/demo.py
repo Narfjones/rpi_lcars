@@ -27,8 +27,8 @@ class PpuiImage(DirtySprite):
 
 
 # create sprites
-bg = PpuiImage("assets/lcars_screen_1.png")
-button = PpuiImage("assets/button.png")
+bg = PpuiImage("demo/assets/lcars_screen_1.png")
+button = PpuiImage("demo/assets/button.png")
 button.applyColour((255, 204, 153))
 
 # add sprites to layer
